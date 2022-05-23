@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<Person>
+	<Name>Dzmitry Abramovich</Name>
+	<Age>23</Age>
+	<Pets>0</Pets>
+	<expected_salary>1000$</expected_salary>
+</Person>
